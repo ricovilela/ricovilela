@@ -16,4 +16,4 @@ Dinosaur of programing since 1995.
   <li>💬 ┇Ask me about: Old schools programing, OSX and Linux Developing, Mobile, Server and code problems.</li>
 </ul>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ricovilela)]
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ricovilela)
