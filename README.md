@@ -6,7 +6,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
 I'm Rico Vilela.<br>
 I'm a full stack developer 💻 ✨<br>
-Dinosaur of programing since 1995.
+Dinosaur of programing since 1995.🦖
 
 <ul>
   <li>🚀 ┇I’m currently working at Windel Systems </li>
