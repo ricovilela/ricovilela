@@ -15,6 +15,16 @@ My first experience with programming was on a home computer, the TK-90X, in whic
   <li>🥋 ┇ReactJS, React Native, Typescript, NodeJS, JavaScript ES5/ES6</li>
   <li>😍 ┇Passionate about education and developing great projects</li>
   <li>💬 ┇Ask me about: Old school programming, new programming languages, OSX and Linux developing, Mobile, Server and code issues.</li>
- </ul>
+</ul>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ricovilela)
+<div>
+  <a href="https://github.com/ricovilela">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ricovilela&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/ricovilela">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricovilela&layout=compact&langs_count=16&theme=react&exclude_repo=porat-site-coming-soon"/>
+  </a>
+  <!--img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=@ricovilela"/-->
+</div>
+<br />
+<img src="https://visitor-badge.glitch.me/badge?page_id=ricovilela" />
