@@ -18,16 +18,12 @@ My first experience with programming was on a home computer, the TK-90X, in whic
 </ul>
 
 <div>
-  <a href="https://github.com/ricovilela">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ricovilela&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/ricovilela">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricovilela&layout=compact&langs_count=16&theme=react&exclude_repo=porat-site-coming-soon"/>
-  </a>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ricovilela&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricovilela&layout=compact&langs_count=16&theme=react&exclude_repo=porat-site-coming-soon"/>
   <br /><br />
   <span>Wakatime Status since 2021-06-29 18:00</span>
   <br />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=@ricovilela"/>
+  <a href="https://wakatime.com/@ricovilela"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=@ricovilela"/></a>
 </div>
 <br />
 <img src="https://visitor-badge.glitch.me/badge?page_id=ricovilela" />
