@@ -24,7 +24,10 @@ My first experience with programming was on a home computer, the TK-90X, in whic
   <a href="https://github.com/ricovilela">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricovilela&layout=compact&langs_count=16&theme=react&exclude_repo=porat-site-coming-soon"/>
   </a>
-  <!--img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=@ricovilela"/-->
+  <br /><br />
+  <span>Wakatime Status since 2021-06-29 18:00</span>
+  <br />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=@ricovilela"/>
 </div>
 <br />
 <img src="https://visitor-badge.glitch.me/badge?page_id=ricovilela" />
