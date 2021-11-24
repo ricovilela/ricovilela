@@ -4,26 +4,29 @@
 <a href="mailto:rico.vilela@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 ## What's up my friends <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-I'm Rico Vilela!<br>
-I'm a PMP and full stack developer at Windel Sistemas. 💻 ✨<br>
-Programming dinosaur since 1995 and way before that! 🦖<br>
-My first experience with programming was on a home computer, the TK-90X, in which I created and modified my own games!🎮
+Oi, eu sou o Rico Vilela.<br>
+Desenvolvedor Full Stack sênior e Tech Lead na FortBrasil. 💻 ✨<br>
+Dinossauro do desenvolvimento desde 1995! 🦖 Na verdade bem antes disso. Minha paixão pelo desenvolvimento começou ali pelos 14 anos de idade, quando ganhei meu primeiro PC, um TK90X, que para jogar eu precisava digitar 4 páginas de códigos, que naquela época eu só sabia que era um monte de números e palavras em inglês! Desde então, sigo minha vida no eterno aprendizado e paixão por linguagens, desenvolvimento e metodologias.
+
+<p>Nesse tempo de atuação, fiz trabalhos para empresas como Vivo📱, McDonald's 🍔, Banda Skank 🎵, Marcopolo 🚌, Randon 🚚, Café De Lá Musique🥂</p>
+
+<p>Meu principal objetivo é melhorar os produtos da empresa, agir rapidamente em resolução de problemas de forma ágil e precisa, gerenciar crises em produção e agregar ao time com metodologias, conhecimento e firmar o desenvolvimento ágil, limpo e preciso.</p>
 
 <ul>
-  <li>🚀 ┇Today my world is this one 👇</li>
-  <li>💜 ┇NodeJS and ReactJS</li>
-  <li>🥋 ┇ReactJS, React Native, Typescript, NodeJS, JavaScript ES5/ES6</li>
-  <li>😍 ┇Passionate about education and developing great projects</li>
-  <li>💬 ┇Ask me about: Old school programming, new programming languages, OSX and Linux developing, Mobile, Server and code issues.</li>
+  <li>🚀 ┇Meu mundo é este 👇</li>
+  <li>💜 ┇Gestão e Desenvolvimento</li>
+  <li>🥋 ┇NodeJS, ReactJS, React Native, TS, JS ES*, Nest, Next</li>
+  <li>🖥️ ┇Azure*, AWS+, Gateway, Mobile, Microserviços, BackEnd, FrontEnd</li>
+  <li>😍 ┇E claro, apaixonado por tecnologia e educação</li>
 </ul>
 
-<div>
+<!--div>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ricovilela&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricovilela&layout=compact&langs_count=16&theme=react&exclude_repo=porat-site-coming-soon"/>
   <br /><br />
   <span>Wakatime Status since 2021-06-29 18:00</span>
   <br />
   <a href="https://wakatime.com/@ricovilela"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=@ricovilela"/></a>
-</div>
+</div-->
 <br />
 <img src="https://visitor-badge.glitch.me/badge?page_id=ricovilela" />
