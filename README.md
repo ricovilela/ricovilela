@@ -27,4 +27,5 @@ Meu principal objetivo é melhorar os produtos da empresa, agir rapidamente em r
 
 
 ![vercel](https://github-readme-stats.vercel.app/api?username=ricovilela&show_icons=true&theme=react&include_all_commits=true&count_private=true)
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricovilela\&layout=compact&langs_count=16&theme=react)](https://github.com/ricovilela/github-readme-stats)
